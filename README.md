@@ -84,7 +84,8 @@ Este repositorio contiene mi solución a la práctica de **Fundamentos de Progra
 └────────────────────────────────────────┘
 ```
 
-![Tests](https://github.com/ManuelTelloM/editor-imagenes-matricial.git/actions/workflows/test.yml/badge.svg)
+[![Tests](https://github.com/ManuelTelloM/editor-imagenes-matricial/actions/workflows/test.yml/badge.svg)](https://github.com/ManuelTelloM/editor-imagenes-matricial/actions/workflows/test.yml)
+
 
 ---
 
@@ -96,8 +97,8 @@ Este repositorio contiene mi solución a la práctica de **Fundamentos de Progra
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/ManuelTelloM/fundamentos-programacion-practica-1.git
-cd fundamentos-programacion-practica-1
+git clone https://github.com/ManuelTelloM/editor-imagenes-matricial.git
+cd editor-imagenes-matricial
 ```
 
 ### Instalar dependencias
