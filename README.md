@@ -97,7 +97,7 @@ Este repositorio contiene mi solución a la práctica de **Fundamentos de Progra
 ### Clonar el repositorio
 ```bash
 git clone https://github.com/ManuelTelloM/editor-imagenes-matricial.git
-cd editor-imagenes-matricial.git
+cd editor-imagenes-matricial
 ```
 
 ### Instalar dependencias
