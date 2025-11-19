@@ -2,18 +2,18 @@
 
 ## 👨‍💻 Información del Estudiante
 
-- *Nombre:* [Manuel Jesus Tello  May]
-- *Matrícula:* [SW2509054]
-- *Grupo:* [B]
-- *Cuatrimestre:* Primer Cuatrimestre
-- *Carrera:* TSU en Desarrollo e Innovación de Software
-- *Profesor:* Jorge Javier Pedrozo Romero
+- **Nombre:** [Manuel Jesus Tello May]
+- **Matrícula:** [SW2509054]
+- **Grupo:** [B]
+- **Cuatrimestre:** Primer Cuatrimestre
+- **Carrera:** TSU en Desarrollo e Innovación de Software
+- **Profesor:** Jorge Javier Pedrozo Romero
 
 ---
 
 ## 📋 Descripción del Proyecto
 
-Este repositorio contiene mi solución a la práctica de *Fundamentos de Programación*, donde implemento funciones en JavaScript para resolver problemas de álgebra básica, preparándome para trabajar con operaciones matriciales más complejas.
+Este repositorio contiene mi solución a la práctica de **Fundamentos de Programación**, donde implemento funciones en JavaScript para resolver problemas de álgebra básica, preparándome para trabajar con operaciones matriciales más complejas.
 
 ## 🎯 Objetivos Alcanzados
 
@@ -34,7 +34,7 @@ Este repositorio contiene mi solución a la práctica de *Fundamentos de Program
 - [x] 1.3 Área de Rectángulo (2 pts) ✅
 - [x] 1.4 Conversión Celsius a Fahrenheit (3 pts) ✅
 
-*Puntos obtenidos: 10/10*
+**Puntos obtenidos: 10/10**
 
 ### Sección 2: Condicionales (15 pts)
 - [x] 2.1 Par o Impar (3 pts) ✅
@@ -42,7 +42,7 @@ Este repositorio contiene mi solución a la práctica de *Fundamentos de Program
 - [x] 2.3 Mayor de Tres (4 pts) ✅
 - [x] 2.4 Clasificar Edad (4 pts) ✅
 
-*Puntos obtenidos: 15/15*
+**Puntos obtenidos: 15/15**
 
 ### Sección 3: Funciones y Bucles (20 pts)
 - [x] 3.1 Factorial (5 pts) ✅
@@ -50,7 +50,7 @@ Este repositorio contiene mi solución a la práctica de *Fundamentos de Program
 - [x] 3.3 Tabla de Multiplicar (5 pts) ✅
 - [x] 3.4 Números Pares (6 pts) ✅
 
-*Puntos obtenidos: 20/20*
+**Puntos obtenidos: 20/20**
 
 ### Sección 4: Arrays (25 pts)
 - [x] 4.1 Suma de Array (4 pts) ✅
@@ -59,7 +59,7 @@ Este repositorio contiene mi solución a la práctica de *Fundamentos de Program
 - [x] 4.4 Filtrar Mayores (5 pts) ✅
 - [x] 4.5 Invertir Array (5 pts) ✅
 
-*Puntos obtenidos: 25/25*
+**Puntos obtenidos: 25/25**
 
 ### Sección 5: Arrays Bidimensionales - Matrices (30 pts)
 - [x] 5.1 Crear Matriz (6 pts) ✅
@@ -68,13 +68,13 @@ Este repositorio contiene mi solución a la práctica de *Fundamentos de Program
 - [x] 5.4 Obtener Columna (7 pts) ✅
 - [x] 5.5 Transponer Matriz (6 pts) ✅
 
-*Puntos obtenidos: 30/30*
+**Puntos obtenidos: 30/30**
 
 ---
 
 ## 📈 Calificación Final
 
-
+```
 ┌────────────────────────────────────────┐
 │  REPORTE DE CALIFICACIÓN               │
 ├────────────────────────────────────────┤
@@ -82,7 +82,7 @@ Este repositorio contiene mi solución a la práctica de *Fundamentos de Program
 │  Porcentaje: 100%                      │
 │  🎓 Calificación: A - Excelente        │
 └────────────────────────────────────────┘
-
+```
 
 ![Tests](https://github.com/ManuelTelloM/editor-imagenes-matricial.git/actions/workflows/test.yml/badge.svg)
 
@@ -95,36 +95,36 @@ Este repositorio contiene mi solución a la práctica de *Fundamentos de Program
 - Git
 
 ### Clonar el repositorio
-bash
+```bash
 git clone https://github.com/ManuelTelloM/editor-imagenes-matricial.git
-cd [fundamentos-programacion-practica-1]
-
+cd editor-imagenes-matricial.git
+```
 
 ### Instalar dependencias
-bash
+```bash
 npm install
-
+```
 
 ### Ejecutar tests
-bash
+```bash
 npm test
-
+```
 
 ### Ejecutar tests en modo watch
-bash
+```bash
 npm run test:watch
-
+```
 
 ### Ver cobertura de código
-bash
+```bash
 npm run test:coverage
-
+```
 
 ---
 
 ## 📁 Estructura del Proyecto
 
-
+```
 fundamentos-programacion-practica-1/
 │
 ├── ejercicios.js           # ⭐ Archivo principal con mis soluciones
@@ -137,24 +137,24 @@ fundamentos-programacion-practica-1/
 └── .github/
     └── workflows/
         └── test.yml        # Configuración de GitHub Actions
-
+```
 
 ---
 
 ## 💡 Aprendizajes Clave
 
 ### Lo que más me costó
-- *Ejercicio 5.5 (Transponer Matriz)*: Entender cómo intercambiar filas por columnas requirió visualizar bien el proceso.
-- *Ejercicio 3.1 (Factorial)*: Al principio olvidé el caso base cuando n=0.
+- **Ejercicio 5.5 (Transponer Matriz)**: Entender cómo intercambiar filas por columnas requirió visualizar bien el proceso.
+- **Ejercicio 3.1 (Factorial)**: Al principio olvidé el caso base cuando n=0.
 
 ### Lo que más me gustó
-- *Arrays Bidimensionales*: Ver cómo las matrices se relacionan con estructuras de datos reales como imágenes.
-- *Testing Automático*: Es increíble ver los tests correr y obtener retroalimentación inmediata.
+- **Arrays Bidimensionales**: Ver cómo las matrices se relacionan con estructuras de datos reales como imágenes.
+- **Testing Automático**: Es increíble ver los tests correr y obtener retroalimentación inmediata.
 
 ### Técnicas aplicadas
-- Uso de for loops para iteraciones
-- Operador módulo % para determinar paridad
-- Arrays dinámicos con .push()
+- Uso de `for` loops para iteraciones
+- Operador módulo `%` para determinar paridad
+- Arrays dinámicos con `.push()`
 - Bucles anidados para matrices
 
 ---
@@ -162,7 +162,7 @@ fundamentos-programacion-practica-1/
 ## 🔧 Ejemplos de Código
 
 ### Función Favorita: Transponer Matriz
-javascript
+```javascript
 function transponer(matriz) {
   const filas = matriz.length;
   const columnas = matriz[0].length;
@@ -178,9 +178,9 @@ function transponer(matriz) {
   
   return transpuesta;
 }
+```
 
-
-*Por qué me gusta:* Demuestra cómo manipular estructuras bidimensionales de forma elegante.
+**Por qué me gusta:** Demuestra cómo manipular estructuras bidimensionales de forma elegante.
 
 ---
 
@@ -205,45 +205,45 @@ Este proyecto me prepara para:
 
 ## 📝 Historial de Commits
 
-bash
+```bash
 # Ver mi historial completo
 git log --oneline --graph --decorate
+```
 
-
-*Commits destacados:*
-- feat: Completar Sección 1 - Variables y tipos de datos
-- feat: Implementar ejercicios de condicionales
-- feat: Resolver funciones y bucles
-- feat: Completar manipulación de arrays
-- feat: Finalizar arrays bidimensionales - matrices
-- docs: Actualizar README con resultados finales
+**Commits destacados:**
+- `feat: Completar Sección 1 - Variables y tipos de datos`
+- `feat: Implementar ejercicios de condicionales`
+- `feat: Resolver funciones y bucles`
+- `feat: Completar manipulación de arrays`
+- `feat: Finalizar arrays bidimensionales - matrices`
+- `docs: Actualizar README con resultados finales`
 
 ---
 
 ## 🤝 Agradecimientos
 
-- *Profesor Jorge Javier Pedrozo Romero* por la estructura del curso y la práctica
-- *Compañeros del Grupo [A/B/C]* por el apoyo mutuo
-- *Tecnológico de Software* por la formación integral
+- **Profesor Jorge Javier Pedrozo Romero** por la estructura del curso y la práctica
+- **Compañeros del Grupo [A/B/C]** por el apoyo mutuo
+- **Tecnológico de Software** por la formación integral
 
 ---
 
 ## 📧 Contacto
 
-- *Email Institucional:* [manuel.tello@tecdesoftware.edu.mx]
-- *GitHub:* [ManuelTelloM](https://github.com/ManuelTelloM)
+- **Email Institucional:** [manuel.tello@tecdesoftware.edu.mx]
+- **GitHub:** [ManuelTelloM](https://github.com/ManuelTelloM)
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto es parte de las actividades académicas del *Tecnológico de Software* y está bajo la licencia MIT.
+Este proyecto es parte de las actividades académicas del **Tecnológico de Software** y está bajo la licencia MIT.
 
 ---
 
 <div align="center">
 
-*⭐ Si te gustó este proyecto, dale una estrella ⭐*
+**⭐ Si te gustó este proyecto, dale una estrella ⭐**
 
 Hecho con 💙 por [Manuel Tello May] - 2025
 
